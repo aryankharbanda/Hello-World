@@ -4,5 +4,4 @@ My First repository
 This is just for practice.
 Getting used to GitHub.
 
-Making changes to this repository.
-#Hactoberfest2018
+Hello Sugar Labs. This is Dayitva from Indonesia participating in GCI 2018.
